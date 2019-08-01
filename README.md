@@ -1,7 +1,7 @@
 # Kidney-Stone-and-Simpson-s-Paradox-using-R
 Use logistic regression to determine which treatment procedure is more effective for kidney stone removal.
 
-##DataSet##
+## DataSet
 In this project, you will work with medical data published in 1986 in "The British Medical Journal" 
 where the effectiveness of two types of kidney stone removal treatments (A - open surgery and B - percutaneous nephrolithotomy) 
 were compared.
